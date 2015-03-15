@@ -11,8 +11,8 @@ cd AngularEveApp_Part1
 npm install 
 bower install
 ```
-Start the server
+### Start the server
 ```
 node app.js
 ```
-Point your browser to `http://localhost:3000` and you should have the app running
+### Point your browser to `http://localhost:3000` and you should have the app running
