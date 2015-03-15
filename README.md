@@ -6,7 +6,7 @@ git clone https://github.com/jay3dec/AngularEveApp_Part1.git
 cd AngularEveApp_Part1
 ```
 
-### Install Dependecnies 
+### Install Dependencies 
 ```
 npm install 
 bower install
