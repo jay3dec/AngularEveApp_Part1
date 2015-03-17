@@ -46,7 +46,7 @@ app.post('/register', function(req, resp) {
         method: 'POST',
         auth: {
             user: 'admin',
-            password: 'password'
+            password: 'admin'
         },
         formData: {
             firstname: _firstName,
